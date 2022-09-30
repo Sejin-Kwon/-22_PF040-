@@ -1,0 +1,50 @@
+[
+  {
+    "id": "8c18ea51-1969-4994-b864-1ae7b77cd982",
+    "data": [
+      {
+        "text": "can you confirm my autopay transactions ",
+        "userDefined": false
+      },
+      {
+        "text": "this month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c7eaa9dd-7e87-4ec2-8a59-b1e745b2f02f",
+    "data": [
+      {
+        "text": "can you confirm my autopay ",
+        "userDefined": false
+      },
+      {
+        "text": "this month",
+        "alias": "date-period",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c307f134-84fb-4822-9dcb-45529c8c7d8a",
+    "data": [
+      {
+        "text": "can you confirm my auto payments",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

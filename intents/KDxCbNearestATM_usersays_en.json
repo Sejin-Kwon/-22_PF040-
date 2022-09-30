@@ -1,0 +1,86 @@
+[
+  {
+    "id": "1c1c4ad5-310a-4e1d-9f09-8da2f6b1b71a",
+    "data": [
+      {
+        "text": "show ATMs near me",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "3464e4ec-829b-4867-aaa4-03fffb0fae8f",
+    "data": [
+      {
+        "text": "show nearest ATM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "7fad3075-8845-43df-814a-cdc7abf183da",
+    "data": [
+      {
+        "text": "what is the nearest ATM from my location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "22d10d8e-819e-460b-b362-b5b61f449912",
+    "data": [
+      {
+        "text": "ATM nearby",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ff3ca4fb-63a6-418e-9384-9d3320904e07",
+    "data": [
+      {
+        "text": "nearby ATM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "97e97a10-5727-48e6-8a23-2e45f96f414a",
+    "data": [
+      {
+        "text": "nearest ATM",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "fc312398-57da-4b1a-8189-7881b9cc1f20",
+    "data": [
+      {
+        "text": "where\u0027s the closest ATM so that I can get this money",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

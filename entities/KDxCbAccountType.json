@@ -1,0 +1,9 @@
+{
+  "id": "0b2a005d-73d0-4f79-b5a9-2d744b848962",
+  "name": "KDxCbAccountType",
+  "isOverridable": true,
+  "isEnum": false,
+  "isRegexp": false,
+  "automatedExpansion": false,
+  "allowFuzzyExtraction": false
+}

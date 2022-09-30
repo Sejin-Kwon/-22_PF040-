@@ -1,0 +1,50 @@
+{
+  "id": "77563a85-942a-4dc6-8ddd-c9c92f3fad0a",
+  "name": "KDxCbShowLastTransactions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "7373f33e-7fed-4dc0-ae96-3aa58a5529ce",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "KDxCbLimit",
+          "value": "$KDxCbLimit",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many transactions do you want to see"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

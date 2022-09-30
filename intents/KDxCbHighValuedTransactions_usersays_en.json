@@ -1,0 +1,302 @@
+[
+  {
+    "id": "c9500e82-ade8-4c9f-9560-291799c9c679",
+    "data": [
+      {
+        "text": "ten",
+        "alias": "KDxCbLimit",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " transactions over ",
+        "userDefined": false
+      },
+      {
+        "text": "500 dollars",
+        "alias": "KDxCbAmount",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "5 months",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ebd2946d-c04d-4040-ba93-f2c8b0a81380",
+    "data": [
+      {
+        "text": "two",
+        "alias": "KDxCbLimit",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " transactions over ",
+        "userDefined": false
+      },
+      {
+        "text": "300 dollars",
+        "alias": "KDxCbAmount",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "3 years",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ccdf429e-f5a5-4c5c-b74f-4b2537c1733e",
+    "data": [
+      {
+        "text": "3",
+        "alias": "KDxCbLimit",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " high volume transactions in ",
+        "userDefined": false
+      },
+      {
+        "text": "5 months",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "241812f8-771e-4ac4-8d29-5a956911aee2",
+    "data": [
+      {
+        "text": "3",
+        "alias": "KDxCbLimit",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " transactions over ",
+        "userDefined": false
+      },
+      {
+        "text": "500 dollars",
+        "alias": "KDxCbAmount",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "93d94147-de4e-4f65-9853-006f52f1cac6",
+    "data": [
+      {
+        "text": "what are my last ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "KDxCbLimit",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " high volume transactions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4f8eb351-764d-44e6-a315-341ac85511fa",
+    "data": [
+      {
+        "text": "5",
+        "alias": "KDxCbLimit",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " high volume transactions",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "75f1ba55-5f16-4e60-9194-c2d475bd99cb",
+    "data": [
+      {
+        "text": "show my last ",
+        "userDefined": false
+      },
+      {
+        "text": "2",
+        "alias": "KDxCbLimit",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " transactions more than ",
+        "userDefined": false
+      },
+      {
+        "text": "2000 dollars",
+        "alias": "KDxCbAmount",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " in last ",
+        "userDefined": false
+      },
+      {
+        "text": "5 days",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "9be840e3-c70f-4771-bdd7-74134905c38e",
+    "data": [
+      {
+        "text": "show my last ",
+        "userDefined": false
+      },
+      {
+        "text": "10",
+        "alias": "KDxCbLimit",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " transactions more than ",
+        "userDefined": false
+      },
+      {
+        "text": "100 dollars",
+        "alias": "KDxCbAmount",
+        "meta": "@sys.unit-currency",
+        "userDefined": false
+      },
+      {
+        "text": " in ",
+        "userDefined": false
+      },
+      {
+        "text": "3 months",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8208dc80-8003-4d9a-b30e-2aa87fcc663c",
+    "data": [
+      {
+        "text": "show my last ",
+        "userDefined": false
+      },
+      {
+        "text": "six",
+        "alias": "KDxCbLimit",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " high volume transactions in ",
+        "userDefined": false
+      },
+      {
+        "text": "3 weeks",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "025fe486-7959-4a24-afe6-0025d87a4447",
+    "data": [
+      {
+        "text": "show my last ",
+        "userDefined": false
+      },
+      {
+        "text": "5",
+        "alias": "KDxCbLimit",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " high valued transactions in last ",
+        "userDefined": false
+      },
+      {
+        "text": "5 months",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "cbab3bed-efa9-4840-95b6-9e34673245a3",
+    "data": [
+      {
+        "text": "Add new transactionsss",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

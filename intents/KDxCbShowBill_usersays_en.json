@@ -1,0 +1,29 @@
+[
+  {
+    "id": "a0f9fc7e-3e67-4a8d-bb3e-3f19a18bde3d",
+    "data": [
+      {
+        "text": "show my ",
+        "userDefined": false
+      },
+      {
+        "text": "credit card",
+        "alias": "KDxCbBillType",
+        "meta": "@KDxCbBillType",
+        "userDefined": false
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "bill",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "3389312a-8dd5-488f-9cb5-ed8a66de5a8c",
+    "data": [
+      {
+        "text": "i want to transfer 500 dollars from my savings account to checking account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "84e97e2e-81ad-421d-b90f-1724a19dfaf3",
+    "data": [
+      {
+        "text": "money in my account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 3,
+    "updated": 0
+  }
+]

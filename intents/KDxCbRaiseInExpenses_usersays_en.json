@@ -1,0 +1,222 @@
+[
+  {
+    "id": "d02c96db-404f-4534-aec2-35b4a6cdb17d",
+    "data": [
+      {
+        "text": "show my raise in expenses ",
+        "userDefined": false
+      },
+      {
+        "text": "over last 6 months",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d9cb5c06-b6de-448e-b911-ae38ae925e25",
+    "data": [
+      {
+        "text": "what are my spends ",
+        "userDefined": false
+      },
+      {
+        "text": "in last nine years",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "f1b10053-0656-46b1-a275-eb0f9b5b6b49",
+    "data": [
+      {
+        "text": "tell me my spends ",
+        "userDefined": false
+      },
+      {
+        "text": "in last three weeks",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "d5322caa-db74-4b41-bbf6-675294a248d4",
+    "data": [
+      {
+        "text": "show my spends for ",
+        "userDefined": false
+      },
+      {
+        "text": "last ten months",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2455c71-f000-4afc-ae0e-44e920dd7989",
+    "data": [
+      {
+        "text": "what is the raise in expenses ",
+        "userDefined": false
+      },
+      {
+        "text": "in last 2 months",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "8ad87345-5747-4c1e-8ab0-0a82d97aa43d",
+    "data": [
+      {
+        "text": "show my expenses in last ",
+        "userDefined": false
+      },
+      {
+        "text": "5 months",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "e2e82ca9-c2b0-4b27-8abf-f3476ef0c3ca",
+    "data": [
+      {
+        "text": "show raise in my expenses over last ",
+        "userDefined": false
+      },
+      {
+        "text": "9 weeks",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "473d39bf-d672-4b38-95c7-e543e221b956",
+    "data": [
+      {
+        "text": "I want to see my raise in expenses in last ",
+        "userDefined": false
+      },
+      {
+        "text": "3 days",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "c8e21296-41fb-4679-b9bb-b29f1e455114",
+    "data": [
+      {
+        "text": "my expense raise in last ",
+        "userDefined": false
+      },
+      {
+        "text": "9 months",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "2a47da83-7cd0-4927-90c8-088b0741ca13",
+    "data": [
+      {
+        "text": "in the last ",
+        "userDefined": false
+      },
+      {
+        "text": "3 months",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      },
+      {
+        "text": " what is my raise in expenses",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "6b44cb58-eccd-416b-aee7-159b84f025e1",
+    "data": [
+      {
+        "text": "how much have I spent over last ",
+        "userDefined": false
+      },
+      {
+        "text": "5 days",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "1a5479f1-ad39-4982-8c0b-83d70a81c464",
+    "data": [
+      {
+        "text": "show my amazon spends over the last ",
+        "userDefined": false
+      },
+      {
+        "text": "2 years",
+        "alias": "KDxCbPeriod",
+        "meta": "@sys.date-period",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

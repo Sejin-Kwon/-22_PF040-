@@ -1,0 +1,50 @@
+{
+  "id": "4bab0aac-35a4-4d57-be5e-22232386ed31",
+  "name": "KDxCbShowBill",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "9d15c763-d240-4750-a988-0054fe8e5510",
+          "required": true,
+          "dataType": "@KDxCbBillType",
+          "name": "KDxCbBillType",
+          "value": "$KDxCbBillType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which bill do you want me to show?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

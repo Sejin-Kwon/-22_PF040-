@@ -1,0 +1,50 @@
+{
+  "id": "c607b37d-a5d9-490a-b2e5-c32caa451ccc",
+  "name": "KDxCbRaiseInExpenses",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "2d5e5507-de6b-4f8e-bcc7-d0adc4bc2a62",
+          "required": true,
+          "dataType": "@sys.date-period",
+          "name": "KDxCbPeriod",
+          "value": "$KDxCbPeriod.original",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "From which time period do you want to compare"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

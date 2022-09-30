@@ -1,0 +1,74 @@
+{
+  "id": "20a92ce2-b8c4-4519-a071-ff59d6492ff4",
+  "name": "KDxCbHighValuedTransactions",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "c0470039-1e75-45aa-81fd-a130cb333878",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "KDxCbLimit",
+          "value": "$KDxCbLimit",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many transactions do you want to see ?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "de5dc234-dce4-4846-9a1f-ac91a51f5d6e",
+          "required": false,
+          "dataType": "@sys.date-period",
+          "name": "KDxCbPeriod",
+          "value": "$KDxCbPeriod",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "709581ab-0327-49fc-ac31-9e49b2dd5c74",
+          "required": false,
+          "dataType": "@sys.unit-currency",
+          "name": "KDxCbAmount",
+          "value": "$KDxCbAmount",
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

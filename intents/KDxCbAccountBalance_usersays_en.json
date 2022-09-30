@@ -1,0 +1,82 @@
+[
+  {
+    "id": "d9b40630-428a-4639-88fe-3be5a05e2fee",
+    "data": [
+      {
+        "text": "account balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "dbcd37eb-4a1e-4532-9e2f-0404feb61b17",
+    "data": [
+      {
+        "text": "what is my account balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "updated": 0
+  },
+  {
+    "id": "4e445d4b-5360-44a0-a7eb-58e1ceae4d89",
+    "data": [
+      {
+        "text": "looking for my account balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "4ce3f5ee-0da4-4760-a7cc-71ea38aae655",
+    "data": [
+      {
+        "text": "how much balance is in my ",
+        "userDefined": false
+      },
+      {
+        "text": "savings",
+        "alias": "KDxCbAccountType",
+        "meta": "@KDxCbAccountType",
+        "userDefined": false
+      },
+      {
+        "text": " account",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  },
+  {
+    "id": "ef17a8b8-555a-462a-9e05-fa87a746dc45",
+    "data": [
+      {
+        "text": "can you tell me my ",
+        "userDefined": false
+      },
+      {
+        "text": "checking",
+        "alias": "KDxCbAccountType",
+        "meta": "@KDxCbAccountType",
+        "userDefined": false
+      },
+      {
+        "text": " account balance",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 0
+  }
+]

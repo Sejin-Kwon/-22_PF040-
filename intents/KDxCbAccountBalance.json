@@ -1,0 +1,50 @@
+{
+  "id": "ee57ef4e-9a4b-444e-8212-9f7cefb1df96",
+  "name": "KDxCbAccountBalance",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "23fe35ec-4e88-4b06-bb78-18c82cdd2dc5",
+          "required": true,
+          "dataType": "@KDxCbAccountType",
+          "name": "KDxCbAccountType",
+          "value": "$KDxCbAccountType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which account type?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

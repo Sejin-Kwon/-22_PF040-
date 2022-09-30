@@ -1,0 +1,68 @@
+{
+  "id": "6870b263-373d-4985-bdf3-1862f8e6002a",
+  "name": "KDxCbOpenAccount",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "36fd7963-8253-4871-9cd9-3352234b9f05",
+          "required": true,
+          "dataType": "@KDxCbAccountType",
+          "name": "KDxCbAccountType",
+          "value": "$KDxCbAccountType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Which account type?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        },
+        {
+          "id": "ff7d906f-3a4e-4ce7-913f-ef1f1ba84efd",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "KDxCbName",
+          "value": "$KDxCbName",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your name?"
+            }
+          ],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": [],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "condition": "",
+          "speech": []
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
