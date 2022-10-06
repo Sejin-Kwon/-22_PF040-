@@ -21,6 +21,8 @@ setup(
         (os.path.join('share', package_name, 'meshes'), glob(os.path.join('meshes', '*.STL'))),
         (os.path.join('share', package_name, 'worlds'), glob(os.path.join('worlds', '*.world'))),
         (os.path.join('share', package_name, 'models'), glob(os.path.join('worlds', '*'))),
+        (os.path.join('share', package_name, 'map'), glob(os.path.join('map', '*'))),
+        (os.path.join('share', package_name, 'param'), glob(os.path.join('param', '*'))),
     ],
     install_requires=['setuptools'],
     zip_safe=True,
@@ -32,6 +34,8 @@ setup(
     entry_points={
         'console_scripts': [
             'main = slam.main:main',
+            'slam_teleop = slam.slam_teleop:main',
+            'slam_goal = slam.slam_goal:main',
         ],
     },
 )
